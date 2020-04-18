@@ -1,0 +1,29 @@
+body {
+    background: url(../new/car3.jpg);
+    background-size:cover;
+    background-position:center;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    color: white;
+    font-weight: 700;
+    font-size: 5em;
+}
+html {
+    height: 100%;
+}
+h3 {
+    color: white;
+}
+hr {
+    width: 850px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgb(0,0,0,0.2);
+}
+#content{
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: rgb(0,0,0,0.4),
+                 rgb(0,0,0,0.2),
+                 rgb(0,0,0,0.1);
+}
